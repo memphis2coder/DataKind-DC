@@ -256,8 +256,7 @@ class Home extends PureComponent {
                                 options={this.state.group_names}
                                 label = {'label'}
                                 callBack={this.setGroupName}
-                                backgroundColor={'white'}
-
+                                backgroundColor={'white'} // this changes dropdown background color to white
                                 />
                         </Row>
                         <Row style={{padding: '5px'}} className="justify-content-md-center">
