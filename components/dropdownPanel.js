@@ -15,7 +15,7 @@ class dropDownPanel extends PureComponent {
             <Col style = {{width: '400px', opacity: 0.8, backgroundColor: 'white', border : "solid 1px #b1b5b5", padding: '20px', margin: '5px', zIndex: 100, position:"fixed"}}>
                         <Row className="justify-content-md-center" style={{padding: '5px'}}>
                             <Dropdowns 
-                                style = {{width: '80%', backgroundColor: 'green'}} 
+                                style = {{width: '80%', backgroundColor: 'white'}} 
                                 placeholder={"Select a local group..."} 
                                 options={this.props.GroupNames} 
                                 label = {'GroupName'} 
