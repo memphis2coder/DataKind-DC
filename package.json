@@ -14,7 +14,7 @@
     "@babel/runtime": "^7.9.2",
     "@vtex/react-csv-parse": "^3.0.2",
     "@zeit/next-css": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "bootstrap-daterangepicker": "^3.0.5",
     "chart.js": "^2.9.3",
